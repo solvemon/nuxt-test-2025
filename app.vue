@@ -11,6 +11,7 @@
       <v-main>
         <v-container>
           <h1>Hello, I am powerful!</h1>
+          <v-checkbox label="Checkbox"></v-checkbox>
         </v-container>
       </v-main>
     </v-app>
